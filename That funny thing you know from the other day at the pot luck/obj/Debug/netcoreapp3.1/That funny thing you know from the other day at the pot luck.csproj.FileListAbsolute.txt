@@ -1,0 +1,16 @@
+M:\yup\That funny thing you know from the other day at the pot luck\bin\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.exe
+M:\yup\That funny thing you know from the other day at the pot luck\bin\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.deps.json
+M:\yup\That funny thing you know from the other day at the pot luck\bin\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.runtimeconfig.json
+M:\yup\That funny thing you know from the other day at the pot luck\bin\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.runtimeconfig.dev.json
+M:\yup\That funny thing you know from the other day at the pot luck\bin\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.dll
+M:\yup\That funny thing you know from the other day at the pot luck\bin\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.pdb
+M:\yup\That funny thing you know from the other day at the pot luck\obj\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.csproj.AssemblyReference.cache
+M:\yup\That funny thing you know from the other day at the pot luck\obj\Debug\netcoreapp3.1\That_funny_thing_you_know_from_the_other_day_at_the_pot_luck.Form1.resources
+M:\yup\That funny thing you know from the other day at the pot luck\obj\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.csproj.GenerateResource.cache
+M:\yup\That funny thing you know from the other day at the pot luck\obj\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.GeneratedMSBuildEditorConfig.editorconfig
+M:\yup\That funny thing you know from the other day at the pot luck\obj\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.AssemblyInfoInputs.cache
+M:\yup\That funny thing you know from the other day at the pot luck\obj\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.AssemblyInfo.cs
+M:\yup\That funny thing you know from the other day at the pot luck\obj\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.csproj.CoreCompileInputs.cache
+M:\yup\That funny thing you know from the other day at the pot luck\obj\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.dll
+M:\yup\That funny thing you know from the other day at the pot luck\obj\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.pdb
+M:\yup\That funny thing you know from the other day at the pot luck\obj\Debug\netcoreapp3.1\That funny thing you know from the other day at the pot luck.genruntimeconfig.cache
